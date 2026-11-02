@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-  A["</iframe></div><script>document.documentElement.dataset.gh033SavedClose='1'</script>GH033_SAVED_CLOSE_TOKEN"]
+  A["GH033_SAVED_JSON_TOKEN &quot; &#x22; \"},\"cmd\":\"code_rendering_service:ready:ack\",\"identity\":\"victim\",\"data\":{\"x\":1}"]
 ```
