@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-  A["GH033_SAVED_JSON_TOKEN &quot; &#x22; \"},\"cmd\":\"code_rendering_service:ready:ack\",\"identity\":\"victim\",\"data\":{\"x\":1}"]
+  A[GH033_SAVED_UNICODE_TOKEN_ _MID_ _END] --> B[ok]
 ```
