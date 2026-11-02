@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-  A[GH033_SAVED_UNICODE_TOKEN_ _MID_ _END] --> B[ok]
+  victim["GH033_SAVED_COLLISION_TOKEN <input id='victim' name='victim'><form id='victim-fullscreen' name='data-content'></form>"] --> victim_fullscreen[#victim data-identity=victim name=victim-fullscreen]
 ```
